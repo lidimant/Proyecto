@@ -20,9 +20,14 @@ Los datos se consumen desde la API de Google Places y se muestran a través de u
 ***Tecnologías utilizadas***
 
 Python -> Lógica backend y scraping con FastAPI
+
 FastAPI -> API REST rápida y moderna
+
 Google Places API -> Fuente de datos de restaurantes
+
 HTML + Bootstrap -> Visualización en el navegador
+
 Jinja2 Templates -> Generación de HTML dinámico
+
 
 ***Estructura del proyecto***
