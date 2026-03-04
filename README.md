@@ -1,4 +1,4 @@
-#WebScrapping - API de Restaurantes con FastAPI y Google Places
+## WebScrapping - API de Restaurantes con FastAPI y Google Places
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production-ready-green)
@@ -6,7 +6,7 @@
 
 Una aplicación desarrollada con **FastAPI** que obtiene datos de restaurantes en la ciudad de Quito - Ecuador mediante la API de **Google Places** y los muestra desde un frontend web interactivo.
 
-***Descripción***
+## ***Descripción***
 
 Este proyecto ofrece una **API REST** que retorna información de restaurantes cercanos a una ubicación específica (coordenadas de Quito), incluyendo:
 
@@ -17,7 +17,7 @@ Este proyecto ofrece una **API REST** que retorna información de restaurantes c
 
 Los datos se consumen desde la API de Google Places y se muestran a través de una interfaz web que realiza llamadas a dicha API interna. :contentReference[oaicite:3]{index=3}
 
-***Tecnologías utilizadas***
+## ***Tecnologías utilizadas***
 
 Python -> Lógica backend y scraping con FastAPI
 
@@ -30,4 +30,4 @@ HTML + Bootstrap -> Visualización en el navegador
 Jinja2 Templates -> Generación de HTML dinámico
 
 
-***Estructura del proyecto***
+## ***Estructura del proyecto***
